@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>七星瓢虫工作坊</title>
+  
+  <subtitle>欢迎来到七星瓢虫工作坊!</subtitle>
+  <link href="https://guet-ladybug.cn/atom.xml" rel="self"/>
+  
+  <link href="https://guet-ladybug.cn/"/>
+  <updated>2023-07-27T05:06:46.546Z</updated>
+  <id>https://guet-ladybug.cn/</id>
+  
+  <author>
+    <name>GUET-Ladybug</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>社团公告</title>
+    <link href="https://guet-ladybug.cn/2022/09/15/notice/"/>
+    <id>https://guet-ladybug.cn/2022/09/15/notice/</id>
+    <published>2022-09-15T22:11:00.000Z</published>
+    <updated>2023-07-27T05:06:46.546Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;2022-x2F-10-x2F-1&quot;&gt;&lt;a href=&quot;#2022-x2F-10-x2F-1&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="公告" scheme="https://guet-ladybug.cn/categories/%E5%85%AC%E5%91%8A/"/>
+    
+    
+    <category term="招新" scheme="https://guet-ladybug.cn/tags/%E6%8B%9B%E6%96%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>资源下载</title>
+    <link href="https://guet-ladybug.cn/2022/08/01/download/"/>
+    <id>https://guet-ladybug.cn/2022/08/01/download/</id>
+    <published>2022-08-01T14:22:58.000Z</published>
+    <updated>2023-07-27T05:06:46.546Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;社团NAS（网络存储）&quot;&gt;&lt;a href=&quot;#社团NAS（网络存储）&quot; class=&quot;headerlink&quot; title=&quot;社团NAS（网络存储）&quot;&gt;&lt;/a&gt;社团NAS（网络存储）&lt;/h1&gt;&lt;p&gt;在校园网中访问&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="下载" scheme="https://guet-ladybug.cn/categories/%E4%B8%8B%E8%BD%BD/"/>
+    
+    
+    <category term="资源" scheme="https://guet-ladybug.cn/tags/%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>社团简介&amp;简单问答</title>
+    <link href="https://guet-ladybug.cn/2022/07/23/jianjie/"/>
+    <id>https://guet-ladybug.cn/2022/07/23/jianjie/</id>
+    <published>2022-07-23T12:34:21.000Z</published>
+    <updated>2023-07-27T05:06:46.546Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;社团简介：&quot;&gt;&lt;a href=&quot;#社团简介：&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="简介" scheme="https://guet-ladybug.cn/categories/%E7%AE%80%E4%BB%8B/"/>
+    
+    
+    <category term="招新" scheme="https://guet-ladybug.cn/tags/%E6%8B%9B%E6%96%B0/"/>
+    
+  </entry>
+  
+</feed>
