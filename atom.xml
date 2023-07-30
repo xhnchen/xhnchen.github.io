@@ -3,11 +3,11 @@
   <title>七星瓢虫工作坊</title>
   
   <subtitle>欢迎来到七星瓢虫工作坊!</subtitle>
-  <link href="https://guet-ladybug.cn/atom.xml" rel="self"/>
+  <link href="https://guet.anineg.space/atom.xml" rel="self"/>
   
-  <link href="https://guet-ladybug.cn/"/>
-  <updated>2023-07-30T12:40:46.761Z</updated>
-  <id>https://guet-ladybug.cn/</id>
+  <link href="https://guet.anineg.space/"/>
+  <updated>2023-07-30T12:46:06.117Z</updated>
+  <id>https://guet.anineg.space/</id>
   
   <author>
     <name>GUET-Ladybug</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>社团公告</title>
-    <link href="https://guet-ladybug.cn/2023/07/28/notice/"/>
-    <id>https://guet-ladybug.cn/2023/07/28/notice/</id>
+    <link href="https://guet.anineg.space/2023/07/28/notice/"/>
+    <id>https://guet.anineg.space/2023/07/28/notice/</id>
     <published>2023-07-28T22:11:00.000Z</published>
-    <updated>2023-07-30T12:40:46.761Z</updated>
+    <updated>2023-07-30T12:46:06.117Z</updated>
     
     
       
@@ -34,19 +34,19 @@
     
     
     
-    <category term="公告" scheme="https://guet-ladybug.cn/categories/%E5%85%AC%E5%91%8A/"/>
+    <category term="公告" scheme="https://guet.anineg.space/categories/%E5%85%AC%E5%91%8A/"/>
     
     
-    <category term="招新" scheme="https://guet-ladybug.cn/tags/%E6%8B%9B%E6%96%B0/"/>
+    <category term="招新" scheme="https://guet.anineg.space/tags/%E6%8B%9B%E6%96%B0/"/>
     
   </entry>
   
   <entry>
     <title>资源下载</title>
-    <link href="https://guet-ladybug.cn/2023/07/23/download/"/>
-    <id>https://guet-ladybug.cn/2023/07/23/download/</id>
+    <link href="https://guet.anineg.space/2023/07/23/download/"/>
+    <id>https://guet.anineg.space/2023/07/23/download/</id>
     <published>2023-07-23T14:22:58.000Z</published>
-    <updated>2023-07-30T12:40:46.761Z</updated>
+    <updated>2023-07-30T12:46:06.117Z</updated>
     
     
       
@@ -59,19 +59,19 @@
     
     
     
-    <category term="下载" scheme="https://guet-ladybug.cn/categories/%E4%B8%8B%E8%BD%BD/"/>
+    <category term="下载" scheme="https://guet.anineg.space/categories/%E4%B8%8B%E8%BD%BD/"/>
     
     
-    <category term="资源" scheme="https://guet-ladybug.cn/tags/%E8%B5%84%E6%BA%90/"/>
+    <category term="资源" scheme="https://guet.anineg.space/tags/%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
   <entry>
     <title>社团简介&amp;简单问答</title>
-    <link href="https://guet-ladybug.cn/2023/07/23/jianjie/"/>
-    <id>https://guet-ladybug.cn/2023/07/23/jianjie/</id>
+    <link href="https://guet.anineg.space/2023/07/23/jianjie/"/>
+    <id>https://guet.anineg.space/2023/07/23/jianjie/</id>
     <published>2023-07-23T12:34:21.000Z</published>
-    <updated>2023-07-30T12:40:46.761Z</updated>
+    <updated>2023-07-30T12:46:06.117Z</updated>
     
     
       
@@ -84,10 +84,10 @@
     
     
     
-    <category term="简介" scheme="https://guet-ladybug.cn/categories/%E7%AE%80%E4%BB%8B/"/>
+    <category term="简介" scheme="https://guet.anineg.space/categories/%E7%AE%80%E4%BB%8B/"/>
     
     
-    <category term="招新" scheme="https://guet-ladybug.cn/tags/%E6%8B%9B%E6%96%B0/"/>
+    <category term="招新" scheme="https://guet.anineg.space/tags/%E6%8B%9B%E6%96%B0/"/>
     
   </entry>
   
